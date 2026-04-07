@@ -1,8 +1,6 @@
-# BinaryOutlook
+# About Me
 
-Computing student interested in building practical systems around intelligent software, high-performance computing, and ambitious ideas.
-
-## About Me
+**Computing student interested in building practical systems around intelligent software, high-performance computing, and ambitious ideas.**
 
 My primary areas of interest are:
 
@@ -15,6 +13,12 @@ I am especially interested in work that turns strong technical ideas into useful
 We live in a rapidly evolving era, and naturally my interests can shift quickly from time to time. Regardless, that energy to explore always comes in handy in our broader quest to understand how technology can better support people.
 
 I am also very curious about the technology of innovation as well, so if our trajectories ever align, feel free to connect with me.
+
+## GitHub Snapshot
+
+Similarly, language choice in this era shifts rapidly with industrial needs and the tools available. Feel free to have a look at what I have been using across my GitHub commit history.
+
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=BinaryOutlook&theme=shadow)
 
 ## Featured Projects
 
@@ -33,7 +37,4 @@ Right now, I am most excited by:
 - developing stronger foundations in CNNs and deep learning
 - exploring CUDA and GPU-accelerated computing
 - learning how innovation happens at the intersection of technology, product thinking, and execution
-
-
-
 
