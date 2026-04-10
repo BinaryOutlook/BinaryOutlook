@@ -24,6 +24,8 @@ These are collaborative projects that my teammate and I completed together:
 | ----------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | **HaLoop**  | DevSecOps safety layer for AI coding agents with approval workflows, risk scoring, and audit trails. | AI tooling, agent workflows, software safety      | [GitHub](https://github.com/DasbootU9607/Deep-Learning-Week-Hackathon-2026-HaLoop-Team-CEEES) |
 | **ReUnion** | Career platform for personalized upskilling roadmaps, job filtering, and application tracking.       | AI use cases, career tooling, retrieval workflows | [GitHub](https://github.com/DasbootU9607/SCDS-TechFest-Hackathon-2026-Team094-ReUnion)        |
+| **The Lank Forenzo Simulator** | GUI-based browser game centered on decisions, exploration, and reality-bending interactions, now used as a sandbox for experimenting with emerging web technologies. | browser game, decision systems, interactive storytelling, web experimentation | [GitHub](https://github.com/BinaryOutlook/The-Lank-Forenzo-Simulator) |
+| **SemantrisPlus** | A modern reinterpretation of Google's Semantris, reimagined with LLM-powered semantic play and updated interaction design. | LLM applications, semantic reasoning, language game design, AI-powered gameplay | [GitHub](https://github.com/BinaryOutlook/SemantrisPlus) |
 
 ## GitHub Snapshot
 
