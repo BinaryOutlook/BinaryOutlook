@@ -1,38 +1,33 @@
-# About Me
+# Hi, I'm Binary Outlook
 
-**Computing student drawn to building practical systems around intelligent software, high-performance computing, and ideas with real technical weight.**
+Computing student building practical systems around intelligent software, deep learning, CUDA, and interactive tools.
 
-Technology moves quickly, and my interests often move with it. 
+I like technical ideas that can move from concept into working systems: AI tooling, agent workflows, neural networks, high-performance computing, and usable web experiences.
 
-What stays constant is the drive to explore deeply, learn with intent, and understand how technical progress can be shaped into something genuinely useful for people.
+## Current direction
 
-I am especially interested in work that carries strong technical ideas across the distance from concept to product, tool, or research direction.
+- AI tooling and human-AI collaboration
+- CNNs, deep learning, and model optimization
+- CUDA, parallel execution, and performance-aware systems
+- Interactive front-end experiences and technical product ideas
 
-I am also deeply curious about how innovation takes form in technology, so if our trajectories ever align, feel free to connect with me.
+## Featured work
 
-## Current Direction
+| Project | What it explores |
+|---|---|
+| [HaLoop](https://github.com/DasbootU9607/Deep-Learning-Week-Hackathon-2026-HaLoop-Team-CEEES) | DevSecOps safety layer for AI coding agents, with approval workflows, risk scoring, and audit trails |
+| [BadmintonManager](https://github.com/BinaryOutlook/BadmintonManager) | Browser-based badminton management simulation with match logic, data, and long-term game systems |
+| [The Lank Forenzo Simulator](https://github.com/BinaryOutlook/The-Lank-Forenzo-Simulator) | Decision-based browser game and sandbox for interactive storytelling and web experimentation |
+| [SemantrisPlus](https://github.com/BinaryOutlook/SemantrisPlus) | LLM-powered reinterpretation of semantic wordplay and language-game interaction |
 
-At the moment, the themes I find myself returning to most often are:
+## Portfolio
 
-- AI use cases
-- CNNs and deep learning
-- CUDA
+For the fuller version of my work, direction, and project notes:
 
-## Featured Projects
+**[binaryoutlook.github.io](https://binaryoutlook.github.io/)**
 
-Here are a few projects that reflect the kinds of problems and ideas I enjoy working on:
+## Connect
 
-| Project                        | Summary                                                                                              | Focus                                                                           | Link                                                                                          |
-| ------------------------------ | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| **HaLoop**                     | DevSecOps safety layer for AI coding agents with approval workflows, risk scoring, and audit trails. | AI tooling, agent workflows, software safety                                    | [GitHub](https://github.com/DasbootU9607/Deep-Learning-Week-Hackathon-2026-HaLoop-Team-CEEES) |
-| **ReUnion**                    | Career platform for personalized upskilling roadmaps, job filtering, and application tracking.       | AI use cases, career tooling, retrieval workflows                               | [GitHub](https://github.com/DasbootU9607/SCDS-TechFest-Hackathon-2026-Team094-ReUnion)        |
-| **The Lank Forenzo Simulator** | GUI-based browser game centered on decisions, exploration, and reality-bending interactions, now used as a sandbox for experimenting with emerging web technologies. | browser game, decision systems, interactive storytelling, web experimentation   | [GitHub](https://github.com/BinaryOutlook/The-Lank-Forenzo-Simulator)                         |
-| **SemantrisPlus**              | A modern reinterpretation of Google's Semantris, reimagined with LLM-powered semantic play and updated interaction design. | LLM applications, semantic reasoning, language game design, AI-powered gameplay | [GitHub](https://github.com/BinaryOutlook/SemantrisPlus)                                      |
+I'm open to conversations around AI systems, deep learning, CUDA, technical projects, research directions, and collaboration opportunities.
 
-## GitHub Snapshot
-
-The languages and tools I use naturally shift with the demands of each project, but taken together they offer a rough map of where my time and curiosity have been flowing.
-
-Feel free to have a look at the patterns across my GitHub history.
-
-![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=BinaryOutlook&theme=shadow)
+**Email:** binaryoutlook01@gmail.com
